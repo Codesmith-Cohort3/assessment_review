@@ -10,3 +10,5 @@ Complete the challenges in the `main.js`. To test your answers, you might want t
 ### Part 2 - HTML/CSS
 
 In the time available, create the closest possible clone of [this website](http://www.berkshirehathaway.com/). Do not use the Chrome DevTools to inspect the DOM. What will you use to achieve the two-column layout? Tables? Divs? Do this in `index.html` and `style.css`.
+
+**BONUS:** Add a perpetually rotating picture of an animal to your page WITHOUT using CSS3 animations, i.e. via JavaScript.
