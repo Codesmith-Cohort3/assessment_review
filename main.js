@@ -29,22 +29,9 @@ function snakeToCamel(str) {
 //   andy: 4829574932,
 //   mildew: 9975723073
 // }
-// objToSortedArray(phoneNums);  -> [ ['andy', 4829574932], 
-//                                    ['chris', 3429588375], 
+// objToSortedArray(phoneNums);  -> [ ['andy', 4829574932],
+//                                    ['chris', 3429588375],
 //                                    ['mildew', 9975723073] ]
 function objToSortedArray(obj) {
 
 }
-
-
-// Write a function that returns a function. The returned function accepts one argument and returns an array of all previous arguments that have been passed to it.
-// var arrBuilder1 = arrayFactory();
-// arrBuilder1('whatever');  -> ['whatever']
-// arrBuilder1('we');        -> ['whatever', 'we']
-// arrBuilder1('want');      -> ['whatever', 'we', 'want']
-// var arrBuilder2 = arrayFactory();
-// arrBuilder2(1);           -> [1] 
-// arrBuilder2(['two']);     -> [1, ['two']] 
-function arrayFactory() {
-
-} 
